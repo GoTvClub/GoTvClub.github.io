@@ -4,18 +4,18 @@ body {
 }
  
 .container-fluid.design{
-	padding-top: 5%;
+	padding-top: 3%;
 	height: 100%;
 	width:auto ;
-	background: #23283a;
-	/*background-image: linear-gradient(#FE8E4F, #FE6D48);*/
+	/*background: #23283a;*/
+	background-image: linear-gradient(to bottom left,#7c4dff, #23283a);
 }
 
 #header-main-title {
 	font-size: 4rem;
 	font-weight: bold;
 	line-height: 1.16;
-	margin: 5%;
+	margin: 2%;
 	color: #ffffff;
 	text-shadow: 2px 2px 8px #00000050;
 	max-width: 540px;
@@ -59,12 +59,13 @@ body {
 
 
 .logo{
+	vertical-align: middle;
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
 	background: white;
-  width: 30%;
-	height:50%;
+  width: 80%;
+	height:80%;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 4px 10px 0 rgba(0, 0, 0, 0.19);
 }
 
