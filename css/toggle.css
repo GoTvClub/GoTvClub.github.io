@@ -1,5 +1,6 @@
 .can-toggle {
     position: relative;
+     width: 50%;
     }
     .can-toggle *, .can-toggle *:before, .can-toggle *:after {
     box-sizing: border-box;
