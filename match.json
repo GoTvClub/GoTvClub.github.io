@@ -2,17 +2,17 @@
 {
     "evento": "Huracán vs Vélez Sarsfield",
     "hora":"5pm",
-    "url": "https://aws-br.cdn.booyah.live/hls/1000007/79497316.m3u8"
+    "url": "http://balancer1.iptvmx.com:8081/tecno/ADN40.TecnoByte/chunks.m3u8"
     
 },
 {
     "evento": "Barcelona vs liga ",
     "hora":"5:50pm",
-    "url": "https://aws-br.cdn.booyah.live/hls/1000007/79497316.m3u8"
+    "url": "http://balancer1.iptvmx.com:8081/tecno/ADN40.TecnoByte/chunks.m3u8"
 },
 {
     "evento": "Emelec vs independiente ",
     "hora":"6pm",
-    "url": "https://aws-br.cdn.booyah.live/hls/1000007/79497316.m3u8"
+    "url": "http://balancer1.iptvmx.com:8081/tecno/ADN40.TecnoByte/chunks.m3u8"
 }
 ]
