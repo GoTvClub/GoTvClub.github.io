@@ -99,18 +99,6 @@
       "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/bajocero-777287160-mmed.jpg",
       "ref": "https://ok.ru/videoembed/2404637349167/1629136495173/0/hsTPKVqPO1acSLWXdYbzQ0Zxkds/000044202F63562F0E0A000001774E56AADF0CB9?Ux2124679=20?white=1&autoplay=1",
       "stars":"6.1"
-    },
-    {
-      "name": "Prime time",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/prime_time-204916971-mmed.jpg",
-      "ref": "go:horarioest",
-      "stars":"4.1"
-    },
-    {
-      "name": "La clasica historia de terror",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/a_classic_horror_story-388536333-mmed.jpg",
-      "ref": "go:terrorhist",
-      "stars":"5.2"
     }
   ]
 }
