@@ -31,7 +31,13 @@
             "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/chernobylpost.jpg",
             "ref": "go:awake",
             "stars":"8.5"
-          }
+          }, 
+        {
+        "name": "Game of throne",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
+        "ref": "go:confinados",
+        "stars":"4.7"
+      }
       
     ]
   }
