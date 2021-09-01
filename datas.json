@@ -1,0 +1,37 @@
+{
+    "slider": [
+      {
+        "name": "Chernobyl",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/chernobyl.jpg",
+        "ref": "go:spiral"
+      },
+      {
+        "name": "Game of throne",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/5ce6e2a1369e8.jpeg",
+        "ref": "go:silencio2"
+      }
+    ],
+    "lastupdates": [
+      {
+        "name": "Chernobyl",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/chernobylpost.jpg",
+        "ref": "go:awake",
+        "stars":"8.5"
+      },
+      {
+        "name": "Game of throne",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
+        "ref": "go:confinados",
+        "stars":"4.7"
+      }
+    ],
+    "Recomended": [
+      {
+            "name": "Chernobyl",
+            "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/chernobylpost.jpg",
+            "ref": "go:awake",
+            "stars":"8.5"
+          }
+      
+    ]
+  }
