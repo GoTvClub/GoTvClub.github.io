@@ -8,7 +8,7 @@
       {
         "name": "Game of throne",
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/5ce6e2a1369e8.jpeg",
-        "ref": "go:silencio2"
+        "ref": "go:gameoftron"
       }
     ],
     "lastupdates": [
@@ -21,7 +21,7 @@
       {
         "name": "Game of throne",
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
-        "ref": "go:confinados",
+        "ref": "go:gameoftron",
         "stars":"4.7"
       }
     ],
@@ -35,7 +35,7 @@
         {
         "name": "Game of throne",
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
-        "ref": "go:confinados",
+        "ref": "go:gameoftron",
         "stars":"4.7"
       }
       
