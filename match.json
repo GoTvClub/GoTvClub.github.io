@@ -1,23 +1,43 @@
 [
 {
-    "evento": "Venezuela vs Argentina",
-    "hora":"19:00",
+    "evento": "España vs Georgia",
+    "hora":"13:45",
     "url": "https://akamai2-br.cdn.booyah.live/hls/1000042/35221011.m3u8"
     
 },
     {
-    "evento": "Chile vs Brasil",
-    "hora":"20:00",
+    "evento": "Alemania vs Armenia",
+    "hora":"13:45",
     "url": "https://akamai2-br.cdn.booyah.live/hls/1000071/79691263.m3u8"
     
 },{
-    "evento": "Peru vs Uruguay",
-    "hora":"20:00",
+    "evento": "Suiza vs Italia",
+    "hora":"13:45",
     "url": "https://akamai2-br.cdn.booyah.live/hls/1000042/35221011.m3u8"
     
 },{
-    "evento": "Panama vs Costa Rica",
-    "hora":"20:05",
+    "evento": "Brasil vs Argentina",
+    "hora":"14:00",
+    "url": "https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/d8fa489d5f464862a2db6d56b7892a01/chunklist_dvr_ssaiV.m3u8"
+    
+},{
+    "evento": "Ecuador vs Chile",
+    "hora":"16:05",
+    "url": "https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/d8fa489d5f464862a2db6d56b7892a01/chunklist_dvr_ssaiV.m3u8"
+    
+},{
+    "evento": "Uruguay vs Bolivia",
+    "hora":"17:00",
+    "url": "https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/d8fa489d5f464862a2db6d56b7892a01/chunklist_dvr_ssaiV.m3u8"
+    
+},{
+    "evento": "Paraguay vs Colombia",
+    "hora":"17:00",
+    "url": "https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/d8fa489d5f464862a2db6d56b7892a01/chunklist_dvr_ssaiV.m3u8"
+    
+},{
+    "evento": "Peru vs Venezuela",
+    "hora":"20:00",
     "url": "https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/d8fa489d5f464862a2db6d56b7892a01/chunklist_dvr_ssaiV.m3u8"
     
 }
