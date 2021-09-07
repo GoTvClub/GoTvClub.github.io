@@ -28,7 +28,13 @@
         "name": "Dirk Gently",
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/dirk_gently_s_holistic_detective_agency_tv_series-695207471-mmed.jpg",
         "ref": "go:Dirkgent",
-        "stars":"4.7"
+        "stars":"7.0"
+      },
+      {
+        "name": "Vikingos",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/vikings_tv_series-616055151-mmed.jpg",
+        "ref": "go:vikingos",
+        "stars":"7.5"
       }
     ],
     "Recomended": [
