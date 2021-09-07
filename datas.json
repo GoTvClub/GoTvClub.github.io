@@ -6,7 +6,7 @@
         "ref": "go:chernobyl"
       },
       {
-        "name": "Game of throne",
+        "name": "Game of thrones",
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/5ce6e2a1369e8.jpeg",
         "ref": "go:gameoftron"
       }
@@ -19,9 +19,15 @@
         "stars":"8.5"
       },
       {
-        "name": "Game of throne",
+        "name": "Game of thrones",
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
         "ref": "go:gameoftron",
+        "stars":"4.7"
+      },
+      {
+        "name": "Dirk Gently",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/dirk_gently_s_holistic_detective_agency_tv_series-695207471-mmed.jpg",
+        "ref": "go:Dirkgent",
         "stars":"4.7"
       }
     ],
@@ -33,7 +39,7 @@
             "stars":"8.5"
           }, 
         {
-        "name": "Game of throne",
+        "name": "Game of thrones",
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
         "ref": "go:gameoftron",
         "stars":"4.7"
