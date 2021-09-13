@@ -35,6 +35,12 @@
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/vikings_tv_series-616055151-mmed.jpg",
         "ref": "go:vikingos",
         "stars":"7.5"
+      },
+      {
+        "name": "Viajeros",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/travelers_tv_series-721107077-mmed.jpg",
+        "ref": "go:viajeros",
+        "stars":"6.2"
       }
     ],
     "Recomended": [
