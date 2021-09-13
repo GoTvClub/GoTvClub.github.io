@@ -41,6 +41,18 @@
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/travelers_tv_series-721107077-mmed.jpg",
         "ref": "go:viajeros",
         "stars":"6.2"
+      },
+      {
+        "name": "American Horror Story",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/american_horror_story_murder_house-705110012-mmed.jpg",
+        "ref": "go:ahs",
+        "stars":"7.2"
+      },
+      {
+        "name": "Marvel's Inhumans",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/inhumans-222141181-mmed.jpg",
+        "ref": "go:inhumans",
+        "stars":"5.2"
       }
     ],
     "Recomended": [
