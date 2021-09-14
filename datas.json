@@ -1,6 +1,11 @@
 {
     "slider": [
       {
+        "name": "Arma Letal",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/arma-letal.jpg",
+        "ref": "go:armaletal"
+      },  
+      {
         "name": "Chernobyl",
         "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/chernobyl.jpg",
         "ref": "go:chernobyl"
