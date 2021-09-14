@@ -57,6 +57,11 @@
     ],
     "Recomended": [
       {
+        "name": "Arma Letal",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/images.jpg",
+        "ref": "go:armaletal",
+        "stars":"7.2"
+      },{
             "name": "Chernobyl",
             "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/chernobylpost.jpg",
             "ref": "go:chernobyl",
