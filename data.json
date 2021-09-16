@@ -1,4 +1,4 @@
-﻿{
+{
   "slider": [
     {
       "name": "Spiral",
@@ -31,7 +31,7 @@
       "ref": "go:fastfuriu9"
     }
   ],
-  "lastupdates": [
+  "lastmovies": [
     {
       "name": "Awake",
       "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/awake-388496829-mmed.jpg",
@@ -68,6 +68,50 @@
       "ref": "go:silencio2",
       "stars":"6.6"
     }
+  ],
+  "lastseries": [
+    {
+        "name": "Chernobyl",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/chernobylpost.jpg",
+        "ref": "go:chernobyl",
+        "stars":"8.5"
+      },
+      {
+        "name": "Game of thrones",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
+        "ref": "go:gameoftron",
+        "stars":"4.7"
+      },
+      {
+        "name": "Dirk Gently",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/dirk_gently_s_holistic_detective_agency_tv_series-695207471-mmed.jpg",
+        "ref": "go:Dirkgent",
+        "stars":"7.0"
+      },
+      {
+        "name": "Vikingos",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/vikings_tv_series-616055151-mmed.jpg",
+        "ref": "go:vikingos",
+        "stars":"7.5"
+      },
+      {
+        "name": "Viajeros",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/travelers_tv_series-721107077-mmed.jpg",
+        "ref": "go:viajeros",
+        "stars":"6.2"
+      },
+      {
+        "name": "American Horror Story",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/american_horror_story_murder_house-705110012-mmed.jpg",
+        "ref": "go:ahs",
+        "stars":"7.2"
+      },
+      {
+        "name": "Marvel's Inhumans",
+        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/inhumans-222141181-mmed.jpg",
+        "ref": "go:inhumans",
+        "stars":"5.2"
+      }
   ],
   "Recomended": [
     {
