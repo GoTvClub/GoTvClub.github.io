@@ -1,30 +1,19 @@
 [
 {
-    "tittle": "Escape From Area 51",
-    "img":"https://img.repelis.id/cover/escape-from-area-51.png",
-    "url": "aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tLzMyNDIwNi9IWjFYRUY0Vl9aV18vc3QyMl9lc2NhcGUtZnJvbS1hcmVhLTUxXzAudjAubXA0",
-    "descrip": "Cuando los teóricos de la conspiración asaltan la famosa base militar Área 51, una guerrera alienígena utiliza un fallo de poder para escapar de su cautiverio, lo que atrae la atención de su archi rival espacial. Ahora debe encontrar el camino de vuelta a casa.",
-    "starts":"7.5"
-},
-    {
-    "tittle": "Escape del cuarto de la tomenta",
-    "img":"https://img.repelis.id/cover/escape-room-tournament-of-champions-2-1626450842.jpg",
-    "url": "aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tLzMyNDIwNi9CNTZETElTRkUvc3QyMl9lc2NhcGUtcm9vbS10b3VybmFtZW50LW9mLWNoYW1waW9uc18wLnYzLm1wNA==",
-    "descrip": "Seis personas se encuentran encerradas de manera inesperada en una nueva serie de escape rooms, revelando paulatinamente aquello que tienen en común para sobrevivir… y descubriendo que todos ya habían jugado el juego con anterioridad.",
-    "starts":"7.5"
-},
-    {
-    "tittle": "Free Guy",
-    "img":"https://img.repelis.id/cover/free-guy-2-1628908205.jpg",
-    "url": "aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tLzMyNDIwNi84R19CR1hKQkpQX18vc3QyMl9mcmVlLWd1eV8yLnYwLm1wNA==",
-    "descrip": "Un trabajador de un banco descubre que en realidad es un jugador dentro de un videojuego.",
-    "starts":"7.5"
-},
-    {
-    "tittle": "What She Said",
-    "img":"https://img.repelis.id/cover/what-she-said-2-1631676603.jpg",
-    "url": "aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tLzMyNDIwNi9PWVk4VVQ4TzFGU00vc3QyMl93aGF0LXNoZS1zYWlkXzAudjAubXA0",
-    "descrip": "Cuando Sam decide retirar los cargos contra su violador, sus amigos y hermanos se reúnen para organizar una intervención en Acción de Gracias.",
-    "starts":"7.5"
+    "tittle": "El Culpable",
+    "img":"https://img.repelis.id/cover/culpable.png",
+    "url": "go:elculpable",
+    "year":"2021"
+},{
+    "tittle": "Ilhados",
+    "img":"https://img.repelis.id/cover/stranded-2-1631763005.jpg",
+    "url": "go:ilhados",
+    "year":"2021"
+},{
+    "tittle": "There’s Something About Mario",
+    "img":"https://img.repelis.id/cover/quem-vai-ficar-com-mario-2-1631763004.jpg",
+    "url": "go:someabomari",
+    "year":"2021"
 }
+
 ]
