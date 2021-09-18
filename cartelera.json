@@ -1,5 +1,45 @@
 [
 {
+    "tittle": "La Purga: Infinita",
+    "img": "https://img.repelis.id/cover/the-forever-purge-2-1625538963.jpg",
+    "url": "go:lapurgainf",
+    "year":"2021"
+},{
+    "tittle": "Viuda Negra",
+    "img": "https://img.repelis.id/cover/black-widow-2-1625845322.jpg",
+    "url": "go:viudanegra",
+    "year":"2021"
+},{
+    "tittle": "Mortal Kombat",
+    "img": "https://img.repelis.id/cover/mortal-kombat-2021.png",
+    "url": "go:mortakomba",
+    "year":"2021"
+},{
+    "tittle": "Space Jam 2",
+    "img": "https://img.repelis.id/cover/space-jam-a-new-legacy-2-1626450722.jpg",
+    "url": "go:spacejam",
+    "year":"2021"
+},{
+    "tittle": "Escape Room 2",
+    "img": "https://img.repelis.id/cover/escape-room-tournament-of-champions-2-1626450842.jpg",
+    "url": "go:escaroom",
+    "year":"2021"
+},{
+    "tittle": "Jungle Cruise",
+    "img": "https://img.repelis.id/cover/jungle-cruise-2-1627653129.jpg",
+    "url": "go:junglevcru",
+    "year":"2021"
+},{
+    "tittle": "El Escuadrón Suicida",
+    "img": "https://i.pinimg.com/564x/37/c2/b1/37c2b1ef313559343d26ce535b71f452.jpg",
+    "url": "go:escuasuici",
+    "year":"2021"
+},{
+    "tittle": "Free Guy",
+    "img": "https://img.repelis.id/cover/free-guy-2-1628908205.jpg",
+    "url": "go:freeguy",
+    "year":"2021"
+},{
     "tittle": "El Culpable",
     "img":"https://img.repelis.id/cover/culpable.png",
     "url": "go:elculpable",
