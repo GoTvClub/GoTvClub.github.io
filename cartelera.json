@@ -14,6 +14,21 @@
     "img":"https://img.repelis.id/cover/quem-vai-ficar-com-mario-2-1631763004.jpg",
     "url": "go:someabomari",
     "year":"2021"
+},{
+    "tittle": "Todo por mi hija",
+    "img": "https://img.repelis.id/cover/all-for-her-2-1631671083.jpg",
+    "url": "go:todoporhij",
+    "year":"2021"
+},{
+    "tittle": "Poliamor para principiantes",
+    "img": "https://img.repelis.id/cover/poliamor-para-principiantes-2-1631590203.jpg",
+    "url": "go:popaprinci",
+    "year":"2021"
+},{
+    "tittle": "Presas de caza",
+    "img": "https://img.repelis.id/cover/prey-2-1631333763.jpg",
+    "url": "go:prey",
+    "year":"2021"
 }
 
 ]
