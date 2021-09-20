@@ -1,5 +1,25 @@
 [
 {
+    "tittle": "La Liga de la Justicia",
+    "img": "https://img.repelis.id/cover/zack-snyders-justice-league-2-1616037963.jpg",
+    "url": "go:laligajust",
+    "year":"2021"
+},{
+    "tittle": "A descubierto",
+    "img": "https://img.repelis.id/cover/outside-the-wire-2-1610767563.jpg",
+    "url": "go:adescubirt",
+    "year":"2021"
+},{
+    "tittle": "Un lugar tranquilo 2",
+    "img": "https://img.repelis.id/cover/a-quiet-place-part-ii-2-1622260083.jpg",
+    "url": "go:unlugartr2",
+    "year":"2021"
+},{
+    "tittle": "La guerra del mañana",
+    "img": "https://img.repelis.id/cover/the-tomorrow-war-2-1625332923.jpg",
+    "url": "go:tomwwar",
+    "year":"2021"
+},{
     "tittle": "La Purga: Infinita",
     "img": "https://img.repelis.id/cover/the-forever-purge-2-1625538963.jpg",
     "url": "go:lapurgainf",
