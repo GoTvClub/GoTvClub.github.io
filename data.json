@@ -33,41 +33,35 @@
   ],
   "lastmovies": [
     {
-      "name": "Awake",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/awake-388496829-mmed.jpg",
-      "ref": "go:awake",
-      "stars":"4.7"
-    },
-    {
-      "name": "Confinados",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/locked_down-819797194-mmed.jpg",
-      "ref": "go:confinados",
-      "stars":"4.7"
-    },
-    {
-      "name": "Spiral",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/spiral_from_the_book_of_saw-375154844-large.jpg",
-      "ref": "go:spiral",
-      "stars":"4.7"
-    },
-    {
-      "name": "Casa de flores",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/la_casa_de_las_flores_la_pelicula-543196640-large.jpg",
-      "ref": "go:casadeflor",
-      "stars":"4.8"
-    },
-    {
-      "name": "Luca",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/luca-907827591-large.jpg",
-      "ref": "go:luca",
-      "stars":"7.0"
-    },
-    {
-      "name": "Un lugar tranquilo 2",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/a_quiet_place_part_ii-979721999-large.jpg",
-      "ref": "go:silencio2",
-      "stars":"6.6"
-    }
+      "img": "http:\/\/angeloplay.club\/\/images\/movies\/41137_x9.jpg",
+      "year": "2021",
+      "tittle": "Medianoche en el Switchgrass",
+      "ref": "go:54"
+  },
+  {
+      "img": "http:\/\/angeloplay.club\/\/images\/movies\/96372_x10.jpg",
+      "year": "2021",
+      "tittle": "El Guerrero Samurái  El Origen",
+      "ref": "go:53"
+  },
+  {
+      "img": "http:\/\/angeloplay.club\/\/images\/movies\/94512_Q1.jpg",
+      "year": "2021",
+      "tittle": "El exorcismo de Carmen Farías",
+      "ref": "go:52"
+  },
+  {
+      "img": "http:\/\/angeloplay.club\/\/images\/movies\/83247_Q2.jpg",
+      "year": "2021",
+      "tittle": "El traficante",
+      "ref": "go:51"
+  },
+  {
+      "img": "http:\/\/angeloplay.club\/\/images\/movies\/31645_Q4.jpg",
+      "year": "2021",
+      "tittle": "Shiny Flakes  ",
+      "ref": "go:50"
+  }
   ],
   "lastseries": [
     {
