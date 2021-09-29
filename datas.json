@@ -1,83 +1,45 @@
-{
-    "slider": [
-      {
-        "name": "Arma Letal",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/arma-letal.jpg",
-        "ref": "go:armaletal"
-      },  
-      {
-        "name": "Chernobyl",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/chernobyl.jpg",
-        "ref": "go:chernobyl"
-      },
-      {
-        "name": "Game of thrones",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/5ce6e2a1369e8.jpeg",
-        "ref": "go:gameoftron"
-      }
-    ],
-    "lastupdates": [
-      {
-        "name": "Chernobyl",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/chernobylpost.jpg",
-        "ref": "go:chernobyl",
-        "stars":"8.5"
-      },
-      {
-        "name": "Game of thrones",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
-        "ref": "go:gameoftron",
-        "stars":"4.7"
-      },
-      {
-        "name": "Dirk Gently",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/dirk_gently_s_holistic_detective_agency_tv_series-695207471-mmed.jpg",
-        "ref": "go:Dirkgent",
-        "stars":"7.0"
-      },
-      {
-        "name": "Vikingos",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/vikings_tv_series-616055151-mmed.jpg",
-        "ref": "go:vikingos",
-        "stars":"7.5"
-      },
-      {
-        "name": "Viajeros",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/travelers_tv_series-721107077-mmed.jpg",
-        "ref": "go:viajeros",
-        "stars":"6.2"
-      },
-      {
-        "name": "American Horror Story",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/american_horror_story_murder_house-705110012-mmed.jpg",
-        "ref": "go:ahs",
-        "stars":"7.2"
-      },
-      {
-        "name": "Marvel's Inhumans",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/inhumans-222141181-mmed.jpg",
-        "ref": "go:inhumans",
-        "stars":"5.2"
-      }
-    ],
-    "Recomended": [
-      {
-        "name": "Arma Letal",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/images.jpg",
-        "ref": "go:armaletal",
-        "stars":"7.2"
-      },{
-            "name": "Chernobyl",
-            "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/chernobylpost.jpg",
-            "ref": "go:chernobyl",
-            "stars":"8.5"
-          }, 
-        {
-        "name": "Game of thrones",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
-        "ref": "go:gameoftron",
-        "stars":"4.7"
-      }
-      
-    ]
+[
+
+  {
+    "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/chernobylpost.jpg",
+    "year":"7.2",
+    "tittle": "Chernobyl",
+    "url": "go:chernobyl"    
+  },
+  {
+    "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
+    "year":"4.7",
+    "tittle": "Game of thrones",
+    "url": "go:gameoftron"    
+  },
+  {
+    "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/dirk_gently_s_holistic_detective_agency_tv_series-695207471-mmed.jpg",
+    "year":"7.0",
+    "tittle": "Dirk Gently",
+    "url": "go:Dirkgent"    
+  },
+  {
+    "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/vikings_tv_series-616055151-mmed.jpg",
+    "year":"7.5",
+    "tittle": "Vikingos",
+    "url": "go:vikingos"    
+  },
+  {
+    "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/travelers_tv_series-721107077-mmed.jpg",
+    "year":"6.2",
+    "tittle": "Viajeros",
+    "url": "go:viajeros" 
+  },
+  {
+    "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/american_horror_story_murder_house-705110012-mmed.jpg",
+    "year":"7.2",
+    "tittle": "American Horror Story",
+    "url": "go:ahs"    
+  },
+  {
+    "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/inhumans-222141181-mmed.jpg",
+    "year":"5.2",
+    "tittle": "Marvel's Inhumans",
+    "url": "go:inhumans"    
   }
+]
