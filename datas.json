@@ -51,5 +51,11 @@
     "year":"5.2",
     "tittle": "Marvel's Inhumans",
     "url": "go:inhumans"    
+  },
+  {
+    "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/inhumans-222141181-mmed.jpg",
+    "year":"5.2",
+    "tittle": "test",
+    "url": "go:test"    
   }
 ]
