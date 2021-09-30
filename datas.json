@@ -6,6 +6,11 @@
     "tittle": "El juego del calamar",
     "url": "go:krakengame"    
   },{
+    "img": "https://i.pinimg.com/564x/55/40/fd/5540fd33fc4289662daec4513465ee5f.jpg",
+    "year":"7.2",
+    "tittle": "Solo asesinatos en el edificio",
+    "url": "go:onlymurder"    
+  },{
     "img": "https://es.web.img2.acsta.net/r_1920_1080/pictures/16/08/17/13/59/000161.jpg",
     "year":"7.2",
     "tittle": "Arma letal",
@@ -51,11 +56,5 @@
     "year":"5.2",
     "tittle": "Marvel's Inhumans",
     "url": "go:inhumans"    
-  },
-  {
-    "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/inhumans-222141181-mmed.jpg",
-    "year":"5.2",
-    "tittle": "test",
-    "url": "go:test"    
   }
 ]
