@@ -65,27 +65,27 @@
   ],
   "lastseries": [
     {
-        "name": "Chernobyl",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/chernobylpost.jpg",
-        "ref": "go:chernobyl",
+        "name": "El juego del calamar",
+        "img": "https://img1.yna.co.kr/etc/inner/SP/2021/09/23/ASP20210923003800883_02_i_P4.jpg",
+        "ref": "go:krakengame",
         "stars":"8.5"
       },
       {
-        "name": "Game of thrones",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/gameofthrone.jpg",
-        "ref": "go:gameoftron",
+        "name": "Solo asesinatos en el edificio",
+        "img": "https://i.pinimg.com/564x/76/2d/44/762d44a565a6e773a5b44613b3181b72.jpg",
+        "ref": "Solo asesinatos en el edificio",
         "stars":"4.7"
       },
       {
-        "name": "Dirk Gently",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/dirk_gently_s_holistic_detective_agency_tv_series-695207471-mmed.jpg",
-        "ref": "go:Dirkgent",
+        "name": "Alice in Borderland",
+        "img": "https://i.pinimg.com/564x/53/1f/82/531f82f91df945b47fb60071dd0ac3de.jpg",
+        "ref": "go:11s",
         "stars":"7.0"
       },
       {
-        "name": "Vikingos",
-        "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/assets/vikings_tv_series-616055151-mmed.jpg",
-        "ref": "go:vikingos",
+        "name": "Arma letal",
+        "img": "https://es.web.img2.acsta.net/r_1920_1080/pictures/16/08/17/13/59/000161.jpg",
+        "ref": "go:armaletal",
         "stars":"7.5"
       },
       {
