@@ -1,66 +1,56 @@
 {
   "slider": [
     {
-      "name": "Spiral",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/spiral-saw_2021_banner.jpg",
-      "ref": "go:spiral"
+      "name": "Host",
+      "img": "https://peliapp.ga/uploads/poster_image/3379.jpg",
+      "ref": "go:88"
     },
     {
-      "name": "Silencio 2",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/maxresdefault.jpg",
-      "ref": "go:silencio2"
+      "name": "Caged",
+      "img": "https://peliapp.ga/uploads/poster_image/3377.jpg",
+      "ref": "go:87"
     },
     {
-      "name": "El escuadron suicida",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/slider4.jpg",
-      "ref": "go:escusuicid"
+      "name": "Dune",
+      "img": "https://peliapp.ga/uploads/poster_image/3374.jpg",
+      "ref": "go:86"
     },
     {
-      "name": "Jungle Cruise",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/slider1.jpg",
-      "ref": "go:junglecrui"
-    },
-    {
-      "name": "Guerra del Mañana",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/slider2.jpg",
-      "ref": "go:waroftomor"
-    },
-    {
-      "name": "Rapidos y Furiosos 9",
-      "img": "https://raw.githubusercontent.com/GoTvClub/Gotv/master/slider/slider3.jpg",
-      "ref": "go:fastfuriu9"
+      "name": "Venom 2",
+      "img": "https://peliapp.ga/uploads/poster_image/3352.jpg",
+      "ref": "go:74"
     }
   ],
   "lastmovies": [
     {
-      "img": "http:\/\/angeloplay.club\/\/images\/movies\/41137_x9.jpg",
+      "img": "https:\/\/peliapp.ga\/uploads\/video_thumb\/3379.jpg",
       "year": "2021",
-      "tittle": "Medianoche en el Switchgrass",
-      "ref": "go:54"
+      "tittle": "Host",
+      "ref": "go:88"
   },
   {
-      "img": "http:\/\/angeloplay.club\/\/images\/movies\/96372_x10.jpg",
+      "img": "https:\/\/peliapp.ga\/uploads\/video_thumb\/3377.jpg",
       "year": "2021",
-      "tittle": "El Guerrero Samurái  El Origen",
-      "ref": "go:53"
+      "tittle": "Caged",
+      "ref": "go:87"
   },
   {
-      "img": "http:\/\/angeloplay.club\/\/images\/movies\/94512_Q1.jpg",
+      "img": "https:\/\/peliapp.ga\/uploads\/video_thumb\/3374.jpg",
       "year": "2021",
-      "tittle": "El exorcismo de Carmen Farías",
-      "ref": "go:52"
+      "tittle": "Dune",
+      "ref": "go:86"
   },
   {
-      "img": "http:\/\/angeloplay.club\/\/images\/movies\/83247_Q2.jpg",
+      "img": "https:\/\/peliapp.ga\/uploads\/video_thumb\/3352.jpg",
       "year": "2021",
-      "tittle": "El traficante",
-      "ref": "go:51"
+      "tittle": "Venom 2",
+      "ref": "go:74"
   },
   {
-      "img": "http:\/\/angeloplay.club\/\/images\/movies\/31645_Q4.jpg",
+      "img": "https:\/\/peliapp.ga\/uploads\/video_thumb\/3349.jpg",
       "year": "2021",
-      "tittle": "Shiny Flakes  ",
-      "ref": "go:50"
+      "tittle": "Hay alguien en tu casa",
+      "ref": "go:71"
   }
   ],
   "lastseries": [
