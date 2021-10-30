@@ -1,27 +1,32 @@
 [
     {
         "evento": "Newcastle vs Chelsea",
-        "hora": "11:00",
+        "hora": "9:00",
         "url": "https://akamai2-br.cdn.booyah.live/hls/1000006/94743497.m3u8"
     },
     {
         "evento": "Manchester City vs Crystal Palace",
-        "hora": "11:00",
+        "hora": "9:00",
         "url": "https://akamai2-br.cdn.booyah.live/hls/1000006/94743497.m3u8"
     },
     {
         "evento": "Liverpool vs Brighton",
-        "hora": "11:00",
+        "hora": "9:00",
         "url": "https://akamai2-br.cdn.booyah.live/hls/1000006/94743497.m3u8"
     },
     {
         "evento": "Sevilla vs Osasuna",
-        "hora": "11:15",
+        "hora": "9:15",
         "url": "https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/d8fa489d5f464862a2db6d56b7892a01/chunklist_dvr_ssaiV.m3u8"
     },
     {
         "evento": "Verona vs Juventus",
-        "hora": "13:00",
-        "url": "https://akamai2-br.cdn.booyah.live/hls/1000006/94743497.m3u8"
+        "hora": "11:00",
+        "url": "https://google-br.cdn.booyah.live/hls/1500006/94751866.m3u8"
+    },
+    {
+        "evento": "Tottenham vs Manchester Un",
+        "hora": "11:30",
+        "url": "https://google-br.cdn.booyah.live/hls/1500027/94733936.m3u8"
     }
 ]
