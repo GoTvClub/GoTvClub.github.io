@@ -1,13 +1,9 @@
 [
-    {
-        "evento": "Ecuador vs Venezuela",
-        "hora": "En vivo",
-        "url": "https://google-br.cdn.booyah.live/hls/1500011/96853157.m3u8?aa"
-    },
+   
     {
         "evento": "Paraguay vs Chile",
-        "hora": "6:00",
-        "url": "https://google-br.cdn.booyah.live/hls/1500006/94751866.m3u8"
+        "hora": "En Vivo",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
     },
     {
         "evento": "Brasil vs Colombia",
