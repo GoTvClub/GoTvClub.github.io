@@ -1,37 +1,22 @@
 [
     {
-        "evento": "Newcastle vs Chelsea",
-        "hora": "9:00",
-        "url": "https://akamai2-br.cdn.booyah.live/hls/1000006/94743497.m3u8"
+        "evento": "Ecuador vs Venezuela",
+        "hora": "En vivo",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96853157.m3u8?aa"
     },
     {
-        "evento": "Manchester City vs Crystal Palace",
-        "hora": "9:00",
-        "url": "https://akamai2-br.cdn.booyah.live/hls/1000006/94743497.m3u8"
-    },
-    {
-        "evento": "Liverpool vs Brighton",
-        "hora": "9:00",
-        "url": "https://akamai2-br.cdn.booyah.live/hls/1000006/94743497.m3u8"
-    },
-    {
-        "evento": "Sevilla vs Osasuna",
-        "hora": "9:15",
-        "url": "https://bcovlive-a.akamaihd.net/a2e5e035037742ff8fd4bae79de16ad4/us-east-1/6058004209001/profile_1/d8fa489d5f464862a2db6d56b7892a01/chunklist_dvr_ssaiV.m3u8"
-    },
-    {
-        "evento": "Verona vs Juventus",
-        "hora": "11:00",
+        "evento": "Paraguay vs Chile",
+        "hora": "6:00",
         "url": "https://google-br.cdn.booyah.live/hls/1500006/94751866.m3u8"
     },
     {
-        "evento": "Tottenham vs Manchester Un",
-        "hora": "11:30",
+        "evento": "Brasil vs Colombia",
+        "hora": "7:30",
         "url": "https://google-br.cdn.booyah.live/hls/1500027/94733936.m3u8"
     },
     {
-        "evento": " Valencia vs Villarreal",
-        "hora": "11:30",
+        "evento": "Peru vs Bolivia",
+        "hora": "9:00",
         "url": "https://38q.gcdn.co/DEP7/tracks-v1a1/mono.m3u8"
     }
 ]
