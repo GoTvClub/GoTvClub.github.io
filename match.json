@@ -1,18 +1,73 @@
 [
    
     {
-        "evento": "Paraguay vs Chile",
-        "hora": "En Vivo",
+        "evento": "Eliminatorias Europeas: Finlandia X Francia",
+        "hora": "14:45",
         "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
     },
     {
-        "evento": "Brasil vs Colombia",
-        "hora": "En Vivo",
+        "evento": "Eliminatorias Europeas: Gales X Belgica",
+        "hora": "14:45",
         "url": "https://google-br.cdn.booyah.live/hls/1500011/96853157.m3u88"
     },
     {
-        "evento": "Peru vs Bolivia",
-        "hora": "9:00",
+        "evento": "Eliminatorias Europeas: Holanda X Noruega",
+        "hora": "14:45",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Eliminatorias Sudamericanas: Bolivia X Uruguay",
+        "hora": "15:00",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Eliminatorias Sudamericanas: Venezuela X Perú",
+        "hora": "16:00",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Eliminatorias CONCACAF: Jamaica X Estados Unidos",
+        "hora": "17:00",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Revelations Cup U20: Mexico X Estados Unidos",
+        "hora": "18:00",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Eliminatorias Sudamericanas: Colombia X Paraguay",
+        "hora": "18:00",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Eliminatorias Sudamericanas: Argentina X Brasil",
+        "hora": "18:30",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Eliminatorias Sudamericanas: Chile X Ecuador",
+        "hora": "19:15",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Eliminatorias CONCACAF: Costa Rica X Honduras",
+        "hora": "20:05",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": " Eliminatorias CONCACAF: Panamá X El Salvador",
+        "hora": "20:05",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Revelations Cup U20: Colombia X Brasil",
+        "hora": "20:30",
+        "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
+    },
+    {
+        "evento": "Eliminatorias CONCACAF: Canada X Méxicoa",
+        "hora": "21:05",
         "url": "https://google-br.cdn.booyah.live/hls/1500011/96844313.m3u8"
     }
 ]
