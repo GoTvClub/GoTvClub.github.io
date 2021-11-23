@@ -1,68 +1,13 @@
 [
    
     {
-        "evento": "LaLiga Santander: Granada X Real Madrid",
-        "hora": "10:15",
-        "url": "https://google-br.cdn.booyah.live/hls/1500047/98239521.m3u8?aa"
+        "evento": "Villarreal vs Manchester",
+        "hora": "12:45",
+        "url": "https://google-br.cdn.booyah.live/hls/1500101/98227391.m3u8"
     },
     {
         "evento": "Premier League: Tottenham X Leeds",
-        "hora": "11:30",
-        "url": "https://google-br.cdn.booyah.live/hls/1500047/98240182.m3u8?aa"
-    },
-    {
-        "evento": "Serie A: Inter Milan X Napoli",
-        "hora": "12:00",
-        "url": "https://google-br.cdn.booyah.live/hls/1500047/98244125.m3u8?aa"
-    },
-    {
-        "evento": "LaLiga Santander: Elche X Betis",
-        "hora": "12:30",
-        "url": "https://google-br.cdn.booyah.live/hls/1500047/98239521.m3u8?aa"
-    },
-    {
-        "evento": "Campeonato Peruano: Alianza Lima X Sporting Cristal",
-        "hora": "14:45",
-        "url": "https://google-br.cdn.booyah.live/hls/1500047/98240182.m3u8?aa"
-    },
-    {
-        "evento": "LaLiga Santander: Real Sociedad X Valencia CF",
-        "hora": "15:00",
-        "url": "https://google-br.cdn.booyah.live/hls/1500047/98239521.m3u8?aa"
-    },
-    {
-        "evento": "Liga Pro Orense X LDU Quito",
-        "hora": "15:30",
-        "url": "https://google-br.cdn.booyah.live/hls/1500047/98244125.m3u8?aa"
-    },
-    {
-        "evento": "Liga BetPlay Atlético Nacional X Millonarios",
-        "hora": "15:30",
-        "url": " https://google-br.cdn.booyah.live/hls/1500047/98256206.m3u8?aa"
-    },
-    {
-        "evento": "Liga BetPlay: Alianza Petrolera X Junior",
-        "hora": "15:30",
-        "url": "https://google-br.cdn.booyah.live/hls/1500047/98255934.m3u8?aa"
-    },
-    {
-        "evento": "Liga BetPlay Pereira X America",
-        "hora": "15:30",
-        "url": "https://google-br.cdn.booyah.live/hls/1500047/98258701.m3u8?aa"
-    },
-    {
-        "evento": "LLiga MX Toluca X Pumas",
-        "hora": "18:00",
-        "url": "https://google-br.cdn.booyah.live/hls/1500081/98114760.m3u8?aa"
-    },
-    {
-        "evento": "SuperLiga Argentina: River Plate X Platense",
-        "hora": "19:30",
-        "url": "https://google-br.cdn.booyah.live/hls/1500081/98114957.m3u8?aa"
-    },
-    {
-        "evento": "Liga MX: Cruz Azul X Monterrey",
-        "hora": "20:15",
-        "url": "https://google-br.cdn.booyah.live/hls/1500081/98114957.m3u8?aa"
+        "hora": "12:45",
+        "url": "https://google-br.cdn.booyah.live/hls/1500007/98557624.m3u8"
     }
 ]
