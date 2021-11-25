@@ -1,63 +1,43 @@
 [
    
     {
-        "evento": "Europa League: Spartak Moskva X Napoli",
-        "hora": "10:30",
-        "url": "https://google-br.cdn.booyah.live/hls/1500114/98742680.m3u8"
+        "evento": "Europa League: Betis X Ferencvaros",
+        "hora": "12:45",
+        "url": "https://google-br.cdn.booyah.live/hls/1500043/98937437.m3u8"
     },
     {
-        "evento": "UEFA Champions League: Inter Milan X Shakhtar",
+        "evento": "Europa League: Mura X Tottenham",
         "hora": "12:45",
-        "url": "https://google-br.cdn.booyah.live/hls/1500114/98742680.m3u8"
+        "url": "https://google-br.cdn.booyah.live/hls/1500043/98929994.m3u8"
     },
     {
-        "evento": "UEFA Champions League: Besiktas X Ajax",
-        "hora": "12:45",
+        "evento": "Campeonato Uruguayo: Progreso X Peñarol",
+        "hora": "14:30",
         "url": "https://google-br.cdn.booyah.live/hls/1500114/98741738.m3u8"
     },
     {
-        "evento": "UEFA Champions League: Manchester City X PSG",
+        "evento": "Europa League: Monaco X Real Sociedad",
         "hora": "15:00",
         "url": "https://google-br.cdn.booyah.live/hls/1500114/98742680.m3u8"
     },
     {
-        "evento": "UEFA Champions League: Real Madrid X Sheriff",
+        "evento": "Europa League: Roma X Zorya",
         "hora": "15:00",
         "url": "https://google-br.cdn.booyah.live/hls/1500114/98741738.m3u8"
     },
     {
-        "evento": "UEFA Champions League: Atlético Madrid X AC Milan",
-        "hora": "15:00",
+        "evento": "SuperLiga Argentina: River Plate X Racing",
+        "hora": "19:30",
         "url": "https://google-br.cdn.booyah.live/hls/1500114/98751054.m3u8"
     },
     {
-        "evento": "UEFA Champions League: Liverpool X Porto",
-        "hora": "15:00",
+        "evento": "Liga MX: Puebla X Leon",
+        "hora": "20:00",
         "url": "https://google-br.cdn.booyah.live/hls/1500114/98752561.m3u8"
     },
     {
-        "evento": "UEFA Champions League: Sporting X Borussia Dortmund",
-        "hora": "15:00",
-        "url": "https://google-br.cdn.booyah.live/hls/1500114/98753055.m3u8"
-    },
-    {
-        "evento": "SuperLiga Argentina: Boca Juniors X Independiente",
-        "hora": "19:30",
-        "url": "https://google-br.cdn.booyah.live/hls/1500007/98557624.m3u8"
-    },
-    {
-        "evento": "Liga MX: Pumas X América",
-        "hora": "20:00",
-        "url": "https://google-br.cdn.booyah.live/hls/1500007/98557624.m3u8"
-    },
-    {
-        "evento": "Liga CONCACAF: Forge X Motagua",
-        "hora": "20:00",
-        "url": "https://google-br.cdn.booyah.live/hls/1500007/98557624.m3u8"
-    },
-    {
-        "evento": "Liga MX: Monterrey X Atlas",
+        "evento": "Liga MX: Santos X Tigres",
         "hora": "22:05",
-        "url": "https://google-br.cdn.booyah.live/hls/1500007/98557624.m3u8"
+        "url": "https://google-br.cdn.booyah.live/hls/1500114/98753055.m3u8"
     }
 ]
