@@ -1,0 +1,41 @@
+{
+    "movie": [
+        {
+            "genre_name": "2021",
+            "movie_title": "El Escuadron Suicida",
+            "movie_poster": "18940_descarga.jpg",
+            "id": "21",
+            "useragent": "goplay"
+        },
+        {
+            "genre_name": "2021",
+            "movie_title": "Jungle Cruise",
+            "movie_poster": "62600_83195_x6.jpg",
+            "id": "22",
+            "useragent": "goplay"
+        }
+    ],
+    "category": [
+        {
+            "category_name": "Horror"
+        },
+        {
+            "category_name": "Action"
+        },
+        {
+            "category_name": "Thriller"
+        },
+        {
+            "category_name": "Drama"
+        },
+        {
+            "category_name": "Love"
+        },
+        {
+            "category_name": "Comedy"
+        },
+        {
+            "category_name": "2021"
+        }
+    ]
+}
