@@ -3,14 +3,14 @@
         {
             "genre_name": "2021",
             "movie_title": "El Escuadron Suicida",
-            "movie_poster": "18940_descarga.jpg",
+            "movie_poster": "http://globalapps.epizy.com/panel/images/movies/18940_descarga.jpg",
             "id": "21",
             "useragent": "goplay"
         },
         {
             "genre_name": "2021",
             "movie_title": "Jungle Cruise",
-            "movie_poster": "62600_83195_x6.jpg",
+            "movie_poster": "http://globalapps.epizy.com/panel/images/movies/62600_83195_x6.jpg",
             "id": "22",
             "useragent": "goplay"
         }
