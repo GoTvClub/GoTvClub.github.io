@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "season_name": "Temporada-1",
+        "episodes": {
+            "1": {
+                "season_name": "Temporada-1",
+                "episode_title": "capitulo 1",
+                "episode_url": "asdasdasd.m3u8",
+                "user_agent": "goplay"
+            },
+            "2": {
+                "season_name": "Temporada-1",
+                "episode_title": "capitulo 2",
+                "episode_url": "asdasdasd.m3u8",
+                "user_agent": "goplay"
+            }
+        }
+    },
+    {
+        "id": "2",
+        "season_name": "Temporada-2",
+        "episodes": {
+            "1": {
+                "season_name": "Temporada-2",
+                "episode_title": "capitulo 1",
+                "episode_url": "asdasdasd.m3u8",
+                "user_agent": "goplay"
+            },
+            "2": {
+                "season_name": "Temporada-2",
+                "episode_title": "capitulo 2",
+                "episode_url": "asdasdasd.m3u8",
+                "user_agent": "goplay"
+            }
+        }
+    }
+]
