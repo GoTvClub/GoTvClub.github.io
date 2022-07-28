@@ -13,10 +13,10 @@
       "category_name": "Cine",
       "channel_name": "Hbo 2",
       "channel_image": "http://192.168.100.2/dashboard/panel/images/2048_png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png",
-      "channel_url": "https://v3.playerlatino.live/stream/m3u8/300",
+      "channel_url": "https://player.twitch.tv/?channel=doex19c&parent=onlinexlive.xyz&parent=www.onlinexlive.xyz&parent=www.sintelevisionhd.com",
       "useragent": "Lavf/57.71.100",
       "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
-      "url_type": "server_url"
+      "url_type": "embedded_url"
     },
     {
       "category_name": "Cine",
