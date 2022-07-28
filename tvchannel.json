@@ -598,7 +598,7 @@
       "category_name": "Deportes",
       "channel_name": "Fox Sport 1 Sur",
       "channel_image": "https://gotvclub.github.io/images/81909_Fox_Sports_1_logo.svg.png",
-      "channel_url": "https://v3.playerlatino.live/stream/m3u8/52",
+      "channel_url": "https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/12_.m3u8?token=qhncCQp4f2V_AxUBcAjwpQ&expires=1659061940&ip=191.99.48.70",
       "useragent": "Lavf/57.71.100",
       "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
       "url_type": "server_url"
