@@ -1,0 +1,1419 @@
+{
+  "channel": [
+    {
+      "category_name": "Cine",
+      "channel_name": "Hbo",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/87292_png-clipart-hbo-television-cinemax-film-warner-one-television-text.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/62",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Hbo 2",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/2048_png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/300",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Hbo Family",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/83646_png-transparent-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-family.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/63",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Hbo plus",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/3472_HBO_Plus.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/64",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Hbo xtreme",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/57617_0000_all_l_hboall-HBO-XTREME-Black.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/841",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "A&E",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/82617_a&e.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/1",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Cinecanal",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/86256_descarga.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/18",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Cinemax",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/20610_Cinemax_LA_logo.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/20",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Cine Latino",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/76392_98e45d48d39a208a4d9dd5c2f0.png",
+      "channel_url": "http://208.88.246.11:6188/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Comedy Central",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/51312_descarga (1).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/135",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "De Pelicula",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/59406_images.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/21",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "FX",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/92911_Fx-tv-channel-logo.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/42",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "FXM",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/92855_descarga (2).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/43",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Lifetime",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/57496_images (1).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/152",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Paramount",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/21021_descarga (3).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/647",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Star channel ",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/30165_pe_fox_m.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/45",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Star Action",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/19017_star-atcion-logo-7391F231E8-seeklogo.com.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/46",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Star Classics",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/65284_star-classics-logo-DA1825A08D-seeklogo.com.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/48",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Star Cinema",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/72721_star-cinema-logo-DA286E4FA2-seeklogo.com.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/47",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Star fun",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/32603_deenu0k-074387db-53af-4e0b-991a-5e3545ce5c01.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/49",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Star hits",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/85430_6091ad515404a637ad953951_star-hits.jpeg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/51",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Star Series",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/65724_deeo62i-b1f99547-1b3a-40d1-a50a-6e86c4f62a8f.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/303",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Sony",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/5612_unnamed.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/498",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Space",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/25156_6ebc6747054e38075f835398fe5ee3c8.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/499",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Studio Universal",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/25130_mx_studio-universal_m.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/84",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "SyFy",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/213_images (2).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/648",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "TBS",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/29313_images (3).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/831",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "TCM",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/6562_TCM-logo.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/85",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "TNT",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/22056_Logo_TNT_Series.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/50",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "TNT Series",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/68721_TNT_Series.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/90",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Unimas",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/90507_images (4).png",
+      "channel_url": "http://23.237.29.98:6188/9603UNIMW/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Universal Tv",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/85660_Universal_TV_Logo_2018.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/137",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Warner",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/77388_46-462031_logo-warner-bros-png-transparent-png.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/102",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Golden",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/65204_images (9).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/57",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Golden Edge",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/96980_televisa-networks-golden-edge-logo.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/58",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Amc",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/31558_descarga (6).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/183",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Axn",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/16613_Axn.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/146",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Starz Cinema",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/98205_unnamed (1).jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/680",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Starz Comedy",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/37200_images (10).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/681",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Starz Encore Action",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/32229_descarga (7).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/682",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Starz Encore Black",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/56787_370-3704984_starz-logo-png-png-download-starz-encore-black.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/683",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Starz Encore Family",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/29980_StarzEncoreFamily.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/684",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Starz Hd",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/70583_38285.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/685",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "test",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/53628_83195_x6.jpg",
+      "channel_url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Discovery Channel ",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/81539_descarga (4).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/22",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Discovery Science",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/26896_kisspng-discovery-science-television-channel-discovery-cha-5af9a924f36451.2294237415263112049969.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/26",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Discovery Turbo",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/56051_descarga (5).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/28",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Discovery World",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/85714_png-transparent-discovery-world-discovery-channel-discovery-hd-discovery-velocity-others-television-text-logo.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/187",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Discovery Theater",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/13474_ed2cfeb6643400720e248aed49cc76fb.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/27",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Discovery TLC ",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/96798_220.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/87",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Investigation Discovery",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/53277_images (5).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/68",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Discovery HH",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/35888_images (6).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/24",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Animal Planet",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/45812_images (7).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/3",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "History",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/41573_History-Channel-e1558632471624.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/67",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "History 2",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/13941_History2Logo2019.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/61",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Natgeo",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/96216_images.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/76",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cultura",
+      "channel_name": "Natgeo Wild",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/46404_png-transparent-logo-nat-geo-wild-national-geographic-television-channel-others-television-text-rectangle-thumbnail.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/77",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Espn Mx",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/37836_profile_images_856564125455065089_MAJ4Buek.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/530",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Espn 2 Mx ",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/9527_images (8).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/531",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Espn 3 Mx",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/67881_espn-3-1626.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/485",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Espn Sur",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/13754_profile_images_856564125455065089_MAJ4Buek.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/34",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Espn 2 Sur",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/52942_images (8).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/35",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Espn 3 Sur",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/87787_espn-3-1626.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/485",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Fox Sport 1 Mx",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/79354_Fox_Sports_1_logo.svg.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/527",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Fox Sport 2 Mx",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/12133_2015_Fox_sports_logo.svg.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/528",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Fox Sport 3 Mx",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/27625_1280px-Fox_sports_3_logo.svg.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/839",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Fox Sport 1 Sur",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/81909_Fox_Sports_1_logo.svg.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/52",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Fox Sport 2 Sur",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/39819_2015_Fox_sports_logo.svg.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/494",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Fox Sport 3 Sur",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/98690_1280px-Fox_sports_3_logo.svg.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/839",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Directv Sports",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/18629_397b2718-9467-4cb7-baad-cf50d6a15c8a_car_202x158.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/259",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Directv Sports 2",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/17026_1621923200.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/667",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Afizzionados",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/49877_afizzionados.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/878",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Aym Sports",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/90273_AYMSportslogo.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/148",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Bein Sports Ñ",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/48965_descarga (19).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/9",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Tnt Sports",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/9298_images (22).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/725",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Claro Sports",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/55965_descarga (20).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/328",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Fox Sports Premium ",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/16487_Fox_Sports_Premium_Argentina_2020.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/658",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Gol Peru",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/58981_ee71e943110beb3033729113f4af80ab.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/686",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Movistar Liga de Campeones",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/70265_movistar-liga-campeones.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/367",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Movistar Deportes",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/35843_images (23).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/366",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Tigo Sports Bolivia",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/21103_images (24).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/764",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "TUDN",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/5142_images (25).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/822",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Tvc Deportes",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/31563_53.jpg.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/837",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Tyc Deportes",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/7150_1bb1a76f3e412e7998f8e82a03d6c312.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/274",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "UFC Network",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/83461_Ufc_network.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/97",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Win Sports",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/60481_images (26).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/292",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Win Sports +",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/24380_win_sport_.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/802",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "Vtv Uruguay",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/37429_VTVURU.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/708",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Deportes",
+      "channel_name": "GolTV",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/92525_BK3RHIMPUNGUVF7MOXSQKVKMAQ.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/287",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "A+",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/68927_images (11).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/406",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "A3 Series",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/33467_720x540.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/444",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Adn 40",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/95759_descarga (8).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/447",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "America Tv",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/13995_images (12).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/780",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Antena 3",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/5004_antena3_logo_nuevo.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/298",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Az Cinema",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/63265_cl_az-cinema_m.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/186",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Az Clic",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/54130_images (13).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/165",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Az Corazon",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/94627_co_az-corazon_m.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/166",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Azteca 1",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/95658_Uno.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/4",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Azteca 7",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/28989_images (1).jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/5",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Bolivision",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/5185_qQEsqWcs_400x400.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/783",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Canal 5",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/88866_Logotipo-Canal-5-México.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/14",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Canal 5 Honduras",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/82275_Canal_5_Honduras.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/773",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Las Estrellas",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/34111_Las_Estrellas_logo_(2016).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/411",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Canal+ Accion",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/10834_canal-1-logo.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/364",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Caracol",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/15192_descarga (2).jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/391",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Caracol Internacional",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/92043_CARACOL_INTERNACIONAL.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/290",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Cnn Español",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/96252_descarga (9).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/136",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Dhe",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/40191_ar_dhe_m.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/844",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Ecuavisa",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/75724_Ecuavisa_logo_2008.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/319",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "El 13 Argentina",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/3227_Logo_de_eltrece_lanzado_en_2016.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/239",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "El Gourmet",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/37187_descarga (10).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/157",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "El Nueve",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/74301_Canal_9_2015.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/772",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Film & Arts",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/20252_images (14).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/149",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Gala Tv",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/74548_images (2).jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/56",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Gamatv",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/91511_images (15).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/891",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Glitz",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/22886_descarga (11).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/158",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Hola Tv",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/85098_Y4ymYB5E_400x400.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/189",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "I.Sat",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/70855_descarga (12).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/153",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Imagen Tv",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/95468_descarga (13).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/341",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Latina Tv",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/13858_descarga (14).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/782",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Mas Chic",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/78321_descarga (15).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/180",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Mega",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/82827_images (16).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/766",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Movistar Comedia",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/81238_images (3).jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/370",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Multimedios",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/85307_images (17).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/155",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Multipremier",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/96001_descarga (16).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/294",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Neox",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/514_images (4).jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/353",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Pasiones",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/44302_images (5).jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/755",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Rcn",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/62301_images (19).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/390",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Showtime",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/97158_descarga (17).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/679",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Tc Ecuador",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/97473_208px-TC_logo2020.webp.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/885",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Tele",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/3669_Logo_Latele_Television.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/778",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Teleamazonas",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/34081_b3e2c76b8e0edacc9859d015d099cefb.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/320",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Telefe",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/21834_Telefe.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/771",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Telemundo",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/13115_images (20).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/92",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Televicentro",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/22347_39b7b86cb4fdee1cddc65d430dd6a1e5.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/776",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Tl Novelas",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/68981_UPN0QX.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/94",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Trutv",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/7061_ar_tru-tv_m.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/96",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Tve",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/80549_images (6).jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/195",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Unicable",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/73005_televisa-afiliados-canales-unicable.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/98",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Univision",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/11650_images (21).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/99",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Univision Tl Novelas",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/66382_hBcnG2cR_400x400.jpeg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/413",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Entretenimiento",
+      "channel_name": "Wapa",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/86447_descarga (18).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/327",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Baby Tv",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/38711_descarga (21).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/7",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Boomerang",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/31555_607px-Boomerang_tv_logo.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/11",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Cartoon Network",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/91549_kisspng-cartoon-network-logo-television-channel-cartoon-network-5ac27edee46144.5088358615226959029355.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/17",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Discovery Kids",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/85751_1164px-2016_Discovery_Kids_logo.svg.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/25",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Disney Channel",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/91701_4095711b176aabd579ef2ba54b246f7a.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/29",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Disney Junior",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/75784_png-clipart-disney-junior-logo-disney-la-chaine-the-walt-disney-company-graphics-disney-junior-logo-television-text.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/30",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Disney Xd",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/35173_a91621b0-29f8-49f8-aeb2-72fe578d780d_m.jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/31",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "NatGeo Kids",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/27618_11163261917b8af8046b759083c5ae8d.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/412",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Nick",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/66154_images (27).png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/78",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Nick Jr",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/28897_images (7).jpg",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/79",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Nicktoons",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/89478_ddbon59-bb6343a5-402a-4b64-8014-75d613c7da12.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/80",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "TeenNick",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/53228_teennick-1673.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/882",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Infantil",
+      "channel_name": "Tooncast",
+      "channel_image": "http://192.168.100.2/dashboard/panel/images/33996_5a0e7a5f45e6d72e8bd1089e1e262ed3.png",
+      "channel_url": "https://v3.playerlatino.live/stream/m3u8/95",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    }
+  ],
+  "category": [
+    {
+      "category_name": "Deportes"
+    },
+    {
+      "category_name": "Cultura"
+    },
+    {
+      "category_name": "Cine"
+    },
+    {
+      "category_name": "Infantil"
+    },
+    {
+      "category_name": "Eventos"
+    },
+    {
+      "category_name": "Entretenimiento"
+    }
+  ]
+}
