@@ -391,10 +391,10 @@
       "category_name": "Cultura",
       "channel_name": "test",
       "channel_image": "http://192.168.100.2/dashboard/panel/images/53628_83195_x6.jpg",
-      "channel_url": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8",
+      "channel_url": "https://player.twitch.tv/?channel=10dx22gt&parent=onlinexlive.xyz&parent=www.onlinexlive.xyz&parent=www.sintelevisionhd.com",
       "useragent": "Lavf/57.71.100",
       "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
-      "url_type": "server_url"
+      "url_type": "embedded_url"
     },
     {
       "category_name": "Cultura",
