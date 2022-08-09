@@ -4,7 +4,7 @@
       "category_name": "Cine",
       "channel_name": "Hbo",
       "channel_image": "https://gotvclub.github.io/images/87292_png-clipart-hbo-television-cinemax-film-warner-one-television-text.png",
-      "channel_url": "https://v3.playerlatino.live/stream/m3u8/62",
+      "channel_url": "https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8",
       "useragent": "Lavf/57.71.100",
       "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
       "url_type": "server_url"
