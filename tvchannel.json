@@ -13,7 +13,7 @@
       "category_name": "Cine",
       "channel_name": "Hbo 2",
       "channel_image": "https://gotvclub.github.io/images/2048_png-transparent-hbo-2-television-show-streaming-media-production-company-television-text-logo-thumbnail.png",
-      "channel_url": "https://player.twitch.tv/?channel=doex19c&parent=onlinexlive.xyz&parent=www.onlinexlive.xyz&parent=www.sintelevisionhd.com",
+      "channel_url": "https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8",
       "useragent": "Lavf/57.71.100",
       "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
       "url_type": "embedded_url"
