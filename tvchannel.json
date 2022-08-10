@@ -22,7 +22,7 @@
       "category_name": "Cine",
       "channel_name": "Hbo Family",
       "channel_image": "https://gotvclub.github.io/images/83646_png-transparent-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-family.png",
-      "channel_url": "https://v3.playerlatino.live/stream/m3u8/63",
+      "channel_url": "https://delivery.cdn.rcs.net.ar/mnp/hbofam/output.mpd",
       "useragent": "Lavf/57.71.100",
       "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
       "url_type": "server_url"
@@ -31,7 +31,7 @@
       "category_name": "Cine",
       "channel_name": "Hbo plus",
       "channel_image": "https://gotvclub.github.io/images/3472_HBO_Plus.png",
-      "channel_url": "https://v3.playerlatino.live/stream/m3u8/64",
+      "channel_url": "http://cvi.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8",
       "useragent": "Lavf/57.71.100",
       "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
       "url_type": "server_url"
