@@ -22,7 +22,7 @@
       "category_name": "Cine",
       "channel_name": "Hbo Family",
       "channel_image": "https://gotvclub.github.io/images/83646_png-transparent-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-family.png",
-      "channel_url": "https://delivery.cdn.rcs.net.ar/mnp/hbofam/output.mpd",
+      "channel_url": "http://cvi.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u83",
       "useragent": "Lavf/57.71.100",
       "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
       "url_type": "server_url"
@@ -41,6 +41,15 @@
       "channel_name": "Hbo xtreme",
       "channel_image": "https://gotvclub.github.io/images/57617_0000_all_l_hboall-HBO-XTREME-Black.png",
       "channel_url": "https://v3.playerlatino.live/stream/m3u8/841",
+      "useragent": "Lavf/57.71.100",
+      "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
+      "url_type": "server_url"
+    },
+    {
+      "category_name": "Cine",
+      "channel_name": "Hbo pop",
+      "channel_image": "https://www.ver-television.online/images/90x90/hbo90.png",
+      "channel_url": "http://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8",
       "useragent": "Lavf/57.71.100",
       "channel_header": "id: bd5a34ceb50b\r\nauth: 3247786415\r\nvc: 10",
       "url_type": "server_url"
